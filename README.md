@@ -1,5 +1,5 @@
 <!-- START -->
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hey%20Everyone&fontSize=90&animation=fadeIn&fontColor=03D5FF&rotate=-3&stroke=0392FF" width="1000"></h1>
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hey%20Everyone&fontSize=90&animation=fadeIn&fontColor=03D5FF&rotate=-2&stroke=0392FF" width="1000"></h1>
 
 <div align="center">
   <!-- REPRESENTATION -->
@@ -48,7 +48,7 @@
 </div>
 
   - Intermediate level: Linux(Arch, Ubuntu), Windows(Windows 10), IDE Clion;
-  - Basic level: IDE Microsoft Visual Studio 2022, Visual Studio Code, valgrind, profiler(perf), gcc, msvc, github;
+  - Basic level: IDE Microsoft Visual Studio 2022, Visual Studio Code, Qt Creator, valgrind, profiler(perf), gcc, msvc, github;
   - cppcheck, cpplint, pvs-studio, github copilot, chatgpt, vcpkg;
 
 ## 👨‍💼 Resume:
