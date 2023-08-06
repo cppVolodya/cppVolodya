@@ -58,10 +58,10 @@
 <div align="center">
 
   <!-- CONTRIBUTIONS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cppVolodya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="225" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cppVolodya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="200" alt="stats graph"  />
   
   <!-- MOST USED LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cppVolodya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="225" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cppVolodya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="200" alt="languages graph"/>
  
   <!-- SNAKE -->
   <h1 align="center"><img src="https://github.com/cppVolodya/cppVolodya/assets/103601559/1f9d61f3-944d-44c9-81ee-3019eabcde72" width="1000"></h1>
