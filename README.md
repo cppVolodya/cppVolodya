@@ -14,7 +14,7 @@
 
 👯‍♀️ I want to cooperate with fellow C++ developers who are passionate about building high-performance and scalable software solutions.
 
-🌱 I'm planning to learn: C++17 and C++20, the Boost library to expand the capabilities of C++, and Google Test for writing tests and ensuring code quality. Additionally, I intend to enhance my English language skills to improve communication and broaden my horizons! 
+🌱 I'm planning to learn: C++17 and C++20, the Boost library to expand the capabilities of C++, and Google Test for writing tests and ensuring code quality. Additionally, I intend to enhance my English language skills to improve communication and broaden my horizons!
 
 ⚡ C++ was originally called "C with Classes".
 
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"/>
 </div>
 
-  - Intermediate level: C++11, C++14, STL, C, Cmake, Qt Widgets, bash, networking;
+  - Below intermediate level: C++11, C++14, STL, C, Cmake, Qt Widgets, bash, networking;
   - Basic level: C++17, multithreading, Qt GUI, Qt Core, qmake, python, git, sqlite, data structures and algorithms;
   - boost(signals2);
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"/>
 </div>
 
-  - Intermediate level: Linux(Arch, Ubuntu), Windows(Windows 10), IDE Clion;
+  - Below intermediate level: Linux(Arch, Ubuntu), Windows(Windows 10), IDE Clion;
   - Basic level: IDE Microsoft Visual Studio 2022, Visual Studio Code, Qt Creator, valgrind, profiler(perf), gcc, msvc, github;
   - cppcheck, cpplint, pvs-studio, github copilot, chatgpt, vcpkg;
 
