@@ -4,17 +4,17 @@
 <div align="center">
   <!-- REPRESENTATION -->
   <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">, My name is Volodymyr Dorozhovets</h1>
-  <h3>Passionate C++ developer from Ukraine</h3>
+  <h3>Embedded C/C++ developer from Ukraine</h3>
 </div>
 
 ## 💫 About Me:
 <!-- ABOUT -->
 
-🔭 I am currently working on personal pet projects in C++.
+🔭 I am currently working on personal pet projects in Embedded C/C++.
 
-👯‍♀️ I want to cooperate with fellow C++ developers who are passionate about building high-performance and scalable software solutions.
+👯‍♀️ I want to cooperate with fellow Embedded C/C++ developers who are passionate about building high-performance and scalable software solutions.
 
-🌱 I'm planning to learn: C++17 and C++20, the Boost library to expand the capabilities of C++, and Google Test for writing tests and ensuring code quality. Additionally, I intend to enhance my English language skills to improve communication and broaden my horizons!
+🌱 I'm planning to learn: I intend to enhance my English language skills to improve communication and broaden my horizons!
 
 ⚡ C++ was originally called "C with Classes".
 
@@ -33,9 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"/>
 </div>
 
-  - Below intermediate level: C++11, C++14, STL, C, Cmake, Qt Widgets, bash, networking;
-  - Basic level: C++17, multithreading, Qt GUI, Qt Core, qmake, python, git, sqlite, data structures and algorithms;
-  - boost(signals2);
+  - Basic level: C, C++, STL, Cmake, Qt, bash, networking, multithreading, python, git, sqlite
 
 ## 🛠️ Tool stack:
 <!-- TOOL -->
@@ -47,9 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"/>
 </div>
 
-  - Below intermediate level: Linux(Arch, Ubuntu), Windows(Windows 10), IDE Clion;
-  - Basic level: IDE Microsoft Visual Studio 2022, Visual Studio Code, Qt Creator, valgrind, profiler(perf), gcc, msvc, github;
-  - cppcheck, cpplint, pvs-studio, github copilot, chatgpt, vcpkg;
+  - Linux(Arch, Ubuntu), Windows(Windows 10), IDE Clion, IDE Microsoft Visual Studio, pvs-studio, Qt Creator, valgrind, github copilot, vcpkg;
 
 ## 👨‍💼 Resume:
 [Resume](https://github.com/cppVolodya/cppVolodya/blob/main/resume_volodymyr_dorozhovets.pdf)
