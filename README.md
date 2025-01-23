@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"/>
 </div>
 
-  - Basic level: C, C++, STL, Cmake, Qt, bash, networking, multithreading, python, git, sqlite
+  - Basic level: C, C++, stm32, Cmake, Qt, bash, networking, multithreading, python, git, sqlite
 
 ## 🛠️ Tool stack:
 <!-- TOOL -->
